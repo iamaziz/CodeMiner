@@ -1,5 +1,5 @@
 # CodeMiner
-Conversation with a GitHub Repository
+Conversation with a GitHub Repository. (WIP)
 
 
 Idea is explained and generated [here](https://chat.openai.com/share/e90d4229-b18e-420e-beeb-b6d06efe0873).
