@@ -1,9 +1,8 @@
 # CodeMiner
 Conversation with a GitHub Repository
 
-### App Idea
 
-> See background: https://chat.openai.com/share/e90d4229-b18e-420e-beeb-b6d06efe0873
+Idea is explained and generated [here](https://chat.openai.com/share/e90d4229-b18e-420e-beeb-b6d06efe0873).
 
 
 ### Sample Repo
